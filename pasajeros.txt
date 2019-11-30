@@ -1,0 +1,6 @@
+1 CarlosSeda 4 23 102
+1 Charlie_Brown 5 22 103
+2 Carlitos 2 10 104
+2 CarlitosSeda 3 10 105
+3 Carl 3 18 106
+3 CarlSeda 3 11 107

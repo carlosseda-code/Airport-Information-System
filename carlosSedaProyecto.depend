@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575090604 source:c:\users\carlo_mhojynm\documents\carlossedaproyecto\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Vuelo.h"
+	"Tiempo.h"
+	"Pasajero.h"
+
+1574920802 c:\users\carlo_mhojynm\documents\carlossedaproyecto\vuelo.h
+	"Tiempo.h"
+
+1574914854 c:\users\carlo_mhojynm\documents\carlossedaproyecto\tiempo.h
+
+1575010219 c:\users\carlo_mhojynm\documents\carlossedaproyecto\pasajero.h
+
